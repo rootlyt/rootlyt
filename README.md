@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rootlyt
+- 👋 Hi, I’m @rootlyt Computer Engineering Fresh Graduate.
 - 👀 I’m interested in IoT and Computer Network
 - 🌱 I’m currently learning Aerial Robotics & Web Programming
-- 💞️ I’m looking to collaborate on (NO U didn't wan't to collab with noob)
 - 📫 How to reach me : IG@rootlyt
 
 <!---
