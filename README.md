@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rootlyt Computer Engineering Fresh Graduate.
-- 👀 I’m interested in IoT and Computer Network
+- 👀 I’m interested in IoT and Computer Network, I also do Digital Art as hobby.
 - 🌱 I’m currently learning Aerial Robotics & Web Programming
 - 📫 How to reach me : IG@rootlyt
 
