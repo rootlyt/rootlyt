@@ -1,5 +1,5 @@
 - 👋 RootLyt - Breaking down things from their deepest level.
-- 👀 Hardware Engineer | IoT | Human Intelligence Digital Arts
+- 👀 Hardware Engineer | Human Based Intelligence Writer & Digital Arts
 - 🌱 I’m currently learning Computer Vision, Aerial Robotics & Web Programming
 - 📫 How to reach me : IG@rootlyt
 
