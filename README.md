@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rootlyt Computer Engineering Fresh Graduate.
-- 👀 I’m interested in IoT and Computer Network, I also do Digital Art as hobby.
-- 🌱 I’m currently learning Aerial Robotics & Web Programming
+- 👋 RootLyt - Breaking down things from their deepest level.
+- 👀 Hardware Engineer | IoT | Human Intelligence Digital Arts
+- 🌱 I’m currently learning Computer Vision, Aerial Robotics & Web Programming
 - 📫 How to reach me : IG@rootlyt
 
 <!---
